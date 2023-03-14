@@ -27,7 +27,7 @@
 		"@ladjs/graceful": "3.2.1",
 		"@prisma/client": "4.8.1",
 		"@sentry/node": "7.30.0",
-		"@sentry/tracing": "7.30.0",
+		"@sentry/tracing": "7.38.0",
 		"axe": "11.2.1",
 		"bcryptjs": "2.4.3",
 		"bree": "9.1.3",
